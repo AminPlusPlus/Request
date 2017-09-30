@@ -40,8 +40,8 @@ class ViewController: UIViewController {
                 }
             }
             
-        }
-        task.resume()
+        }; task.resume()
+        
     }
 
 
